@@ -91,7 +91,7 @@ bot_tele/
 ### 2️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Masjjoooo/bot_tele.git
+git clone https://github.com/Masjjoooo/Telebot_Vercel.git
 cd bot_tele
 ```
 
